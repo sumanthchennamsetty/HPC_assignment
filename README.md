@@ -18,34 +18,38 @@ Code Description
 ### Graphs
 a. Runtime vs. Threads by fixing the Matrix Size. (Threads varies as 1,2,4,6,8,10,12,14,16)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/38c0121b-5f82-45da-8bf2-4fe059c585fb)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/1830f9af-f6b8-4094-8378-97ba33173097)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/b7c776fd-a552-4874-9f46-9fa4f122bc69)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/17c8af1f-ce0f-4f93-9daa-fabf522e106f)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/e6a1bc55-ac30-4702-9a0e-852e77ebcddd)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/0dbbe4e4-9d03-4613-a42d-f001008e7f20)
+
 
 
 b. Runtime vs. Matrix Sizes by fixing number of threads (Matrix Sizes - 512, 1024, 2048)
  
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/c632ba7e-bde7-40dc-bfa4-06f682d95230)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/26593714-79a0-41d7-945b-55465702eb99)
 
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/f08cdf14-e716-4b60-b565-5a591cc2bab9)
-
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/1ad95799-3562-4a48-86f1-d3471f3e5881)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/9f79fcbb-b7f5-4113-8792-6b7c2a9e02d2)
 
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/8c839b5d-e5e9-488c-925f-079027996a43)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/a9405860-b9ee-4bb8-aec0-f240b5528cb6)
 
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/9fd61d85-fcd6-4709-b38c-8cd55dfdf4a1)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/6445ae4b-d81a-4d97-8f6c-5a344f59da01)
 
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/609ac744-415b-4f3c-975f-38a0b33c680d)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/3e88ad19-849a-43cc-a283-bc1af8861a55)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/0ff62776-dcdb-4285-b574-06c50234775a)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/a103727f-1af8-442d-9c40-d36d841c388c)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/73fa3c55-0de7-49b7-88f3-cb9c0a81e3f2)
+
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/22968672-8662-49ce-804f-a1960b08fd74)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/a0228c9b-37fe-41cd-a768-6509054a6c23)
 
 ***
 ### 2. Block Matrix Multiplication (BMM) using block sizes: 4,8,16,32,64.
@@ -81,60 +85,59 @@ This information is invaluable for assessing the efficiency of our BMM algorithm
 a. Runtime vs. Threads by fixing the Matrix Size. (Threads varies as 1,2,4,6,8,10,12,14,16)
 - For Matrix odf size 2048 and blocks size varies as 4,8,16,32,64
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/71579463-473e-40dc-a528-ec970929c627)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/42d9aae3-90ab-43e6-a2cf-1cb94010aa28)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/1ce8f086-816b-4e98-ba22-cdb41426f354)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/3465b7eb-1887-451f-9ca9-08b4550c8085)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/ce3d3f0c-bca2-4fbb-b055-697d4eed4619)
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/bef4c816-9306-40d8-9309-629ab07061dd)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/f9946aa7-5329-4877-be51-c8c0a929f6b0)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/752dad47-2584-44bd-8d17-442b13f1bac1)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/fde09290-f37b-4910-9bde-e79e51562f18)
 
-
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/59c70b51-45ec-4075-b8e8-76642a822c6b)
 
 
 - For Matrix odf size 1024 and blocks size varies as 4,8,16,32,64
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/d89a6db5-a5a6-4874-83aa-0b57872f4be9)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/9d32e066-093b-4be8-b6ac-74ca5dd4d787)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/a16aadc6-9ac5-42c6-b67b-c9f9caa6ed4b)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/2d43b3f9-545d-4b40-9fbf-2789d98b6e7d)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/2d568317-e434-4768-8d82-8c9bed00cb1e)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/12b4ccae-8794-4b98-970b-979e299357ba)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/13cbc6d5-e263-4279-883d-32060991930a)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/79094dca-57ff-49bf-a582-6ba4c3f5ff16)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/f0e03ad4-2533-409c-90c2-3dbe65677c5a)
-
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/fbc084dc-5582-4fb6-b88a-a9119914388f)
 
 - For Matrix odf size 512 and blocks size varies as 4,8,16,32,64
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/de6fe063-6dc6-4acb-9e80-1a5aaf417a69)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/2d0f36a4-2a9b-4c7c-bcb8-f093251acf37)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/5da08dda-e500-4f4f-bafd-9ae105f5089f)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/2e69c766-c5ac-4882-adb3-4f6690579fc4)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/3a6618a3-05a7-40cb-ad1b-9b5084ff6683)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/26e07819-8f15-4de8-a8ca-c64064b56a60)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/a8f29beb-917d-44a2-bea0-fc90923e9563)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/8baa2fd0-b576-45b0-9a35-b2aca7971653)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/5034e8e0-afd6-4824-b189-7fe82c016efc)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/10fbd736-43cf-4a7f-a821-aa48ebd92761)
 
 
 b. Runtime vs. Matrix Sizes by fixing number of threads (Matrix Sizes - 512, 1024, 2048)
 - in this we kept thread number as constant in each case and changed the matix sizes
   
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/dd694b9d-0c46-49f1-8ed9-920535ed7e8e)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/832f0807-3e64-4484-a6bd-fec4a5ebb4ad)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/fb0dc9d1-4f0d-4baf-8c07-5f4d834f351b)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/c1172bfe-a98a-491f-b56c-05a42862fd86)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/c7bd989b-32da-4305-a5f7-1cd92d040b25)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/ac9a2be0-3177-49d7-bbfb-03a155b538dd)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/7d81a914-60a3-40d0-a8b5-0e3ef1a6380b)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/dac5daee-79f5-46dd-babb-291011f61786)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/2ee79475-f6f3-4952-a071-ac29105d8f30)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/49f0eae1-a361-4f7c-8a1a-d49a9fa347e6)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/f6247543-566a-48fb-b83b-aae90952c532)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/9b913c63-f186-444e-bf04-bda43602fc65)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/204ae861-68e6-4247-a731-43132276d420)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/95d01366-abd8-4b95-a87e-13ac34e1db8f)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/8dd087e6-6bd1-41db-8494-78074481086f)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/6d75ab2a-2104-4e85-b56e-5cf7820bee33)
+
 
 ***
 ##### 3. Tranpose of A to find nth Power using OMM.
@@ -169,24 +172,46 @@ a. Runtime vs. Threads by fixing the Matrix Size. (Threads varies as 1,2,4,6,8,1
 
 - EXPONENTS i.e, no of Matrixes being multiplied in an itreation will be from 2 to 10.
   
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/055b3e36-3a0b-4d90-b00c-905e39504b5f)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/8c796a33-ab21-44df-a8d9-22056a0109d7)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/84dcb321-595c-40e2-8db3-b19ea51f030b)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/d3033629-949d-4b9f-b95e-0a50a675b33c)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/92782594-63d0-4376-b842-34d0c0c73d7b)
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/d252e0d6-c879-4b76-b2e9-8562304988c6)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/201feb58-6192-4b7a-977e-db68cd408bb4)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/6cba755d-322b-46c0-b7fa-b0211549dccd)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/2a786bff-1a38-4c9b-b24b-619eb7eaa1be)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/01d0371c-4af8-48cb-8b0a-cf74bd01716f)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/45a31258-c122-407c-93dd-92034581a4cd)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/552617a9-e8cf-4638-9e6c-752498151f7b)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/d33763e0-13ff-43c3-8c97-a9f6af12105f)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/f41fe800-588b-47f4-b563-b911f52163cf)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/899f8eec-13e9-40f3-8707-52508542ae51)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/407f5d62-9560-4bf6-9449-c8ec448e0c69)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/7a2cc02c-2ef8-4463-accf-44bc83e8151e)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/72b3b6e3-e7dd-4c81-b2af-c6fd1555841f)
 
 
+
+b. Runtime vs. Matrix Sizes by fixing number of threads (Matrix Sizes - 512, 1024, 2048)
+- in this we kept thread number as constant in each case and changed the matix sizes
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/f9b70f50-6d1a-4cfc-ba92-46cac79ce801)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/43c9b1e7-7140-4966-b02a-c644376e5f9d)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/490f7011-a700-4d0a-a871-065aeaa221f1)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/faa8ee3b-1b5f-4e92-8f38-b7e0a8c95492)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/16719121-66e6-4947-83ad-14d57203882b)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/9a2b4ac9-f95c-437d-a2b7-7eb76669df7c)
+
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/b32d6cd9-854c-443b-9153-55ae3f2f2a6e)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/d6d5809b-8ae3-4592-8d88-7b41f9a641c0)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/ec1c7e0d-0907-4a3f-98d0-35d5be6ad2cb)
 
 
 ##### 4. Tranpose of A to find nth Power using BMM.
@@ -220,88 +245,125 @@ This information is invaluable for assessing the efficiency of our BMM algorithm
 a. Runtime vs. Threads by fixing the Matrix Size. (Threads varies as 1,2,4,6,8,10,12,14,16)
 - For Matrix odf size 2048 and blocks size varies as 4,8,16,32,64
   
-EXPONENT - 2 & MATRIX SIZE - 2048
+EXPONENT - 2 & MATRIX SIZE - 2028
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/c24ab898-0233-4d93-91e4-2cc11c815b44)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/9f6b99b6-19b5-47dd-8319-822dab5d6c1b)
 
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/1b76d80a-ac18-4f87-9f30-8bb371353b97)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/ca7e40cc-7980-4b23-9df0-01e440bb105c)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/1cfb9eb7-f33e-4267-bd4b-464ddc1c4470)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/0554cb70-8ac2-4200-855d-9cb81b09d028)
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/1f153ab1-917e-4a68-9319-e7317c1fa92a)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/ee9352dc-cfb5-4ca1-bee1-754f9be63511)
 
-
-
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/a2e8f03f-6682-4e5a-a51d-cd527d0615bd)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/c71b61df-1396-4f74-a096-1e9b3efefd2e)
 
 
 EXPONENT - 2 & MATRIX SIZE - 1024
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/679ac686-be52-44ce-b3c1-948b38e99c32)
 
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/dded67f8-cfd4-4f97-a85f-c6768c5a09b2)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/4b468d5b-d07b-4def-9327-30f6a313dc95)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/d7fbe3e8-94a4-4aa3-8ec4-3f4a733b2c53)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/cb97fc6d-8aac-4002-a884-95927e978806)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/f7f5df2a-9764-4176-9ba6-5d04c7317f65)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/86d9d92a-4fa8-4311-8e4a-3ea773942447)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/5b1608f5-11c0-4304-8a51-718b887b4691)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/346a95d1-ba39-44e2-80d0-56815afc95a5)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/1c49ac4f-a839-435c-adf1-2358dce93111)
 
 
 EXPONENT - 2 & MATRIX SIZE - 512
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/0a85129d-483f-4555-a72d-061617259831)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/f063f47a-97bc-4275-8fc1-c3bd6385cb38)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/30946322-3988-4e82-b741-139ee8896da8)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/204b2a86-8688-42a7-90e7-4cf0da4d1fcf)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/691b3d44-a661-4aef-8e32-94427dd2716b)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/5c2fbb39-cb9d-4580-a668-936da212e7dd)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/2a1907d6-f67e-4bdd-88b8-8980306c2a6c)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/3c2f60fd-08bf-4574-add7-96a90b06755c)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/f0133c71-590f-4013-85ee-89c0f2cb2416)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/dda7b594-5707-47ad-9ba7-6373fecb7f19)
 
 
 EXPONENT - 8 & MATRIX SIZE - 512
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/b0d3a06a-8535-47d7-aaed-8c9e7d596cd1)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/e3115810-5fbe-4dbc-85e2-4557cd92dc35)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/2d98d613-a8cf-4b39-bd9a-2cf3c9b80525)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/b9b9032a-a84b-47d7-a41b-7272423253c7)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/b91b147a-5900-4f48-a50a-a42896c3f983)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/e307100e-16c1-40e4-9ad0-e5d6de25b1dd)
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/c477e51c-648c-4763-95b7-82298293054d)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/39f22c13-4219-4105-b5cf-4bdd7033e7fd)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/aac475aa-8f87-40de-ab53-9e31d446db87)
 
 
 EXPONENT - 8 & MATRIX SIZE - 1024
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/87b792a1-1760-4a2a-9e8f-c93744717013)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/5e9e1a2e-0a2f-4ea2-9f99-e4f0ed834105)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/0b7865ac-7c39-43cb-b5c3-46acf1508e8f)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/13d2ec77-8e0c-4b72-8d15-1a7818da472c)
-![image](https://github.com/chaitanyabalajireddy/HPC_Assignment-_1/assets/91625648/7c1873d4-e09f-488e-a06c-e51f9641ff9a)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/d8680fa2-2d69-46a0-a77d-d7be3f9d0a01)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/82f96527-789d-42b4-90ef-8e987ee4bc93)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/150a20c4-ba4b-4b25-88fd-db4ba5fe5860)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/9329b469-36da-4d09-b541-85d669a9fa7e)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/2a2adeec-6569-4672-887c-6302478523b7)
+
 
 EXPONENT - 8 & MATRIX SIZE - 2048
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/7e633487-11dd-462d-a944-e00ad1408a4a)
 
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/abd53bed-6618-4769-bdcb-2d668a5f8924)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/03960584-913f-4ed8-9c7b-9a8f452e674d)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/1dac1c48-73bf-4fe3-aad7-4a727db25266)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/4c9f74fc-3e9e-4ac3-9483-06f83ae612af)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/2b04bfeb-a3e1-45e7-b229-765ae86a64fb)
 
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/29fc0561-eaa3-4a1e-b866-da7a301155b0)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/abd8df76-cde5-43e6-b070-eaf88ce48d12)
-
-
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/c9c27b47-3db8-4155-87e8-cd8db678c9b3)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/583ff2ca-14cd-4165-9fef-962d76ee8a35)
 
 
 b. Runtime vs. Matrix Sizes by fixing number of threads (Matrix Sizes - 512, 1024, 2048)
 - in this we kept thread number as constant in each case and changed the matix sizes
 - Block size varies between 4,16,32
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/4ef80a07-fd2e-4050-8bc4-d7be5d931290)
+  
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/a857f3f8-22cb-48bd-84e0-49e5ecdd2af9)
+Threads constant as 8
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/8cd9fa24-5796-47a6-bee4-c60520ec8cb2)
 
-![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/29b79c6e-5717-4df7-b550-263f81ca5ad0)
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/df18c3bb-b90f-400b-ad75-45d4178c1a7d)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/3b258e3b-173a-4a69-95f7-9418fa8ccdb7)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/b14bb143-8dba-4c0f-9005-fdb2ee1ca126)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/35b763a1-a839-435c-9f5d-9fd7ec82691b)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/8d7334fe-3498-4126-8e91-ba1a861ed21c)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/ed93e8f7-1f17-494b-aaf9-f04a0ded8800)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/cfaafed1-5bfa-4439-b850-9b14b3c1e4c7)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/f98df794-2c09-4993-8882-8102c6801dbd)
 
 
-Threads constant as 8 
+
+Threads constant as 16
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/41df62c2-c8ec-4cde-ae38-9666fbce0fb4)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/abf450b4-80e3-473f-91f6-2382484ae49f)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/6b498715-7fd8-4523-87ef-1e48c818c8ee)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/f9cb79d3-1396-4d5d-b2bb-617e954a44cc)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/9a2770ea-b096-432e-96a0-db5d5b92b841)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/617c4b94-0ca0-4074-a279-c79e316790d7)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/370b5712-6de8-496a-b89b-273e8d0baec6)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/bba59a1f-81f1-41d1-a71b-de83040490aa)
+
+![image](https://github.com/sumanthchennamsetty/HPC_assignment1/assets/138759091/52f082c5-fce8-4561-87ee-a4b33a95b922)
+
 
